@@ -27,7 +27,6 @@ input2.txt: 3 numbers to be sorted (for code2)
 label1.txt, label2.txt: Label file generated using pass1.c
 binary1.txt, binary2.txt: Binary machine code generated using pass2.c
 
-
 STEP1: Run pass1.c
     This will generate the label table for the given assembly code.
 
